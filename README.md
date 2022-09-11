@@ -9,9 +9,9 @@ The results of the analysis show that that the primary target customer is male a
 # Summary
 By walking through this storyboard, you will see a 10,000ft view drilled down to differences in gender, user type, and period of the week.  Based on the link and below screenshots, a ridesharing company marketed towards male commuters with a subsription option is the best strategy to bring ridesharing to other cities than just NYC.  
 
-![](resources/summary.png)
-![](resources/1.png)
-![](resources/2.png)
-![](resources/3.png)
-![](resources/4.png)
-![](resources/5.png)
+![](/summary.png)
+![](/1.png)
+![](/2.png)
+![](/3.png)
+![](/4.png)
+![](/5.png)
